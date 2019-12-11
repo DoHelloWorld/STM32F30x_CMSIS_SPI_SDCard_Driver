@@ -7,8 +7,8 @@ For timeout measurement driver uses DWT module.
 ## Getting Started
 
 You can use your own CMSIS library or get it from here.
-CMSIS library folder: [cmsis](cmsis) 
-System files folder: [boot](boot)
+* CMSIS library folder: [cmsis](cmsis) 
+* System files folder: [boot](boot)
 
 Driver supports SPI1, SPI2 and SPI3. At your project you should init SPIx GPIO before init SD card e.g for SPI3:
 
