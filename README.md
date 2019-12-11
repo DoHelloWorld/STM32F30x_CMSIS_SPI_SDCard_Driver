@@ -49,6 +49,8 @@ Driver supports SDSC, SDHC and SDXC card types. Information about successfuully 
 
 API functions are not thread-safe, use mutexes!
 
+See example project here: [example](example)
+
 Have fun!
 
 ## Authors
